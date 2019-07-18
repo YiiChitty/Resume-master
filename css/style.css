@@ -379,7 +379,7 @@ a {
 }
 
 .content-hd .skill-level {
-    padding-top: 50px;
+    padding-top: 40px;
 }
 
 .content-hd .skill-level h3 {
@@ -477,6 +477,11 @@ a {
     margin-top: 10px;
 }
 
+.content-hd .info h4 {
+    text-indent: 2em;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 720px) {
     .content-hd .info h2 {
         margin-top: 4px;
@@ -484,7 +489,7 @@ a {
 }
 
 .content-hd .contact {
-    padding-top: 80px;
+    padding-top: 40px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -584,13 +589,13 @@ a {
 
 .content-bd section {
     overflow: hidden;
-    padding: 10px 15px;
+    padding: 5px 15px;
 }
 
 .content-bd .section-hd {
     position: relative;
     height: 32px;
-    margin: 10px auto 5px;
+    margin: 5px auto 5px;
     overflow: hidden;
 }
 
@@ -675,7 +680,7 @@ a {
 
 .content-bd .item-hd .item-name {
     display: inline-block;
-    float: left;
+    font-weight: bold;
 }
 
 .content-bd .item-bd {
@@ -688,8 +693,12 @@ a {
     line-height: 22px;
 }
 
-.content-bd .section-content .iconfont {
+.section-bd .section-content .iconfont {
     color: #00b38a;
+}
+
+.content-bd .reward .section-bd .item-bd p {
+    text-indent: 1em;
 }
 
 .content-bd .section-content em {
