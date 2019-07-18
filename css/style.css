@@ -379,7 +379,7 @@ a {
 }
 
 .content-hd .skill-level {
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 .content-hd .skill-level h3 {
@@ -484,7 +484,7 @@ a {
 }
 
 .content-hd .contact {
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 @media screen and (max-width: 1024px) {
