@@ -148,9 +148,23 @@ summary {
     /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
 }
 
+@font-face {
+    font-family: "iconfont2";
+    src: url("../src/iconfont2.ttf") format("truetype");
+}
+
 .iconfont {
     color: #00b38a;
     font-family: "iconfont" !important;
+    font-size: 18px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont2 {
+    color: #00b38a;
+    font-family: "iconfont2" !important;
     font-size: 18px;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
@@ -179,6 +193,18 @@ summary {
 
 .icon-dot:before {
     content: "\e600";
+}
+
+.icon-wechat:before {
+    content: "\e628";
+}
+
+.icon-weibo:before {
+    content: "\e618";
+}
+
+.icon-qq:before {
+    content: "\e619";
 }
 
 .kill-ie {
@@ -508,6 +534,10 @@ a {
 }
 
 .content-hd .contact ul>li>a .iconfont {
+    margin-left: 5px;
+}
+
+.content-hd .contact ul>li>a .iconfont2 {
     margin-left: 5px;
 }
 
