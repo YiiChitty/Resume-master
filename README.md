@@ -2,7 +2,7 @@
 ## Resume
 #### 预览
 
-[预览](https://iiChitty.github.io/Resume/index.html)
+[预览](https://yiichitty.github.io/Resume-master/index.html)
 
 
 #### 打印方法
