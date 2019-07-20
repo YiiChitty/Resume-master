@@ -489,7 +489,7 @@ a {
 }
 
 .content-hd .contact {
-    padding-top: 40px;
+    padding-top: 120px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -696,7 +696,7 @@ a {
     color: #00b38a;
 }
 
-.content-bd .reward .section-bd .item-bd p {
+.content-bd .education .section-bd .item-bd p {
     text-indent: 1em;
 }
 
@@ -737,6 +737,11 @@ a {
 
 .content-bd .education .item-time {
     width: 32%;
+}
+
+.content-bd .education .section-bd .item-hd .item-name {
+    display: inline-block;
+    font-weight: normal;
 }
 
 @media screen and (max-width: 720px) {
