@@ -736,6 +736,7 @@ a {
 }
 
 .content-bd .education .item-time {
+    text-indent: 1em;
     width: 32%;
 }
 
