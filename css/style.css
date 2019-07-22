@@ -479,7 +479,7 @@ a {
 
 .content-hd .info h4 {
     text-indent: 2em;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 @media screen and (max-width: 720px) {
@@ -489,7 +489,7 @@ a {
 }
 
 .content-hd .contact {
-    padding-top: 120px;
+    padding-top: 50px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -696,7 +696,7 @@ a {
     color: #00b38a;
 }
 
-.content-bd .education .section-bd .item-bd p {
+.content-bd .other .section-bd .item-bd p {
     text-indent: 1em;
 }
 
@@ -718,11 +718,23 @@ a {
     line-height: 14px;
     border: 1px solid #f3f3f3;
     border-radius: 3px;
-    font-weight: 500;
+    font-weight: 600;
     color: #444;
     margin: 2px;
     padding: 0 3px;
     background-color: #f6f6f6;
+}
+
+.content-bd .section-content pro {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+    font-weight: 500;
+    color: #444;
+    margin: 2px;
+    padding: 0 3px;
 }
 
 .content-bd .skill .section-content {
