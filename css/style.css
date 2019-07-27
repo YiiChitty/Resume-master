@@ -700,6 +700,10 @@ a {
     text-indent: 1em;
 }
 
+.content-bd .other .section-bd b {
+    font-weight: bold;
+}
+
 .content-bd .section-content em {
     display: inline-block;
     font-family: Menlo, "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif;
